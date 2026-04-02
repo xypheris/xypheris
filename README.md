@@ -1,4 +1,4 @@
-<h1 align="center">Filiv Lix</h1>
+<h1 align="center">Xypheris</h1>
 <h3 align="center">Frontend Developer • UI Designer • Creative Builder</h3>
 
 <p align="center">
