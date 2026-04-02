@@ -52,7 +52,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://instagram.com/xypheris">
+  <a href="https://instagram.com/xypherish">
     <img src="https://img.shields.io/badge/Instagram-xypheris-black?style=for-the-badge&logo=instagram">
   </a>
 </p>
