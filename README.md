@@ -1,36 +1,44 @@
-<h1 align="center">Hi 👋, I'm Xypheris</h1>
-<h3 align="center">🚀 Frontend Developer | UI Enthusiast</h3>
+<h1 align="center">Filiv Lix</h1>
+<h3 align="center">Frontend Developer • UI Designer • Creative Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I+build+cool+web+apps;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Modern+Web+Apps;Clean+UI+%26+Smooth+UX;Always+Learning+New+Things" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🔭 Lagi bikin: Web AI All-in-One  
-- 🌱 Belajar: React, Next.js, Tailwind  
-- ⚡ Fun fact: Suka UI estetik & clean  
+- 🚀 Focus: Frontend Development & UI Design  
+- ⚡ Passion: Building aesthetic & functional web apps  
+- 🛠️ Currently: Developing AI-based web platform  
+- 🎯 Goal: Become a top-tier developer  
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Performance
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🔥 Streak Stats
+### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -44,10 +52,13 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://instagram.com/xypheris">
+    <img src="https://img.shields.io/badge/Instagram-xypheris-black?style=for-the-badge&logo=instagram">
+  </a>
 </p>
 
 ---
 
-<p align="center">✨ "Code. Create. Repeat." ✨</p>
+<p align="center">
+  <i>“Design clean. Code smart. Build impact.”</i>
+</p>
